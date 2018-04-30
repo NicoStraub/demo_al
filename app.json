@@ -1,0 +1,23 @@
+{
+  "id": "f56a3cab-2e2b-48e1-bf3e-4f2aa040e7bc",
+  "name": "Demo_AL",
+  "publisher": "NAS conception GmbH",
+  "brief": "Demo AL",
+  "description": "Hier werden wir mit AL spielen",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 64500,
+    "to": 64549
+  }
+}
